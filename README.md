@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Juliana Castillo Araujo!
 
-<!--
-**julianacastilloaraujo/julianacastilloaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Currently working on:
+- AI/ML projects and exploring new tech stacks
+- Teaching AI/ML concepts to students
 
-Here are some ideas to get you started:
+### 🌱 Currently learning:
+- Advanced AI/ML techniques
+- Data Analysis with Python (NumPy & Pandas)
+- Prompt Engineering and its impact on AI applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 Looking to collaborate on:
+- AI/ML open-source projects
+- Community-driven educational content
+
+### 🤔 Looking for help with:
+- Networking with AI professionals
+- Contributing to impactful AI research
+
+### 💬 Ask me about:
+- AI/ML for beginners
+- Ethical data analysis
+- How to start contributing to open-source projects
+
+### 📫 How to reach me:
+- LinkedIn: [@julianacastilloaraujo](https://www.linkedin.com/in/julianacastilloaraujo/)
+- Twitter: [@julianacastilloaraujo](https://twitter.com/julianacastilloaraujo)
+
+### ⚡ Fun fact:
+- I'm passionate about using AI to drive positive social impact!
