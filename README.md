@@ -24,7 +24,7 @@
 
 ### 📫 How to reach me:
 - LinkedIn: [@julianacastilloaraujo](https://www.linkedin.com/in/julianacastilloaraujo/)
-- Twitter: [@julianacastilloaraujo](https://twitter.com/jcastilloaraujo)
+- Twitter: [@jcastilloaraujo](https://twitter.com/jcastilloaraujo)
 
 ### ⚡ Fun fact:
 - I'm passionate about using AI to drive positive social impact!
